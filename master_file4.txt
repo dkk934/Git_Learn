@@ -1,3 +1,4 @@
 master Initiating Rebase test
 
 master Rebase 1
+test Rebase 2
