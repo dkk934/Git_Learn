@@ -1,1 +1,2 @@
-master merge confilict 1
+master merge confilict 0
+test merge confilict 1
