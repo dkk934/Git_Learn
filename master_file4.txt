@@ -6,3 +6,4 @@ test Rebase 3
 master Rebase 4
 master Rebase 5
 newTest Rebase 6
+newTest Rebase 7
